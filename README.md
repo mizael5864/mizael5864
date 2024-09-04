@@ -1,5 +1,7 @@
 BOAS VINDAS AO MEU PERFIL💜
+
 Meu nome é Mizael Mariano Belo Junior
+
 .Estou estudando na alura
 .Estou me desenvolvendo na linguagem JavaScript
 .Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
